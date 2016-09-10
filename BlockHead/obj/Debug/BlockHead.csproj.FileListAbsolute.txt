@@ -1,0 +1,32 @@
+C:\bkbDev\BlockHead\BlockHead\bin\Debug\BlockHead.exe.config
+C:\bkbDev\BlockHead\BlockHead\bin\Debug\BlockHead.exe
+C:\bkbDev\BlockHead\BlockHead\bin\Debug\BlockHead.pdb
+C:\bkbDev\BlockHead\BlockHead\obj\Debug\BlockHead.csprojResolveAssemblyReference.cache
+C:\bkbDev\BlockHead\BlockHead\obj\Debug\MainWindow.baml
+C:\bkbDev\BlockHead\BlockHead\obj\Debug\MainWindow.g.cs
+C:\bkbDev\BlockHead\BlockHead\obj\Debug\App.g.cs
+C:\bkbDev\BlockHead\BlockHead\obj\Debug\BlockHead_MarkupCompile.cache
+C:\bkbDev\BlockHead\BlockHead\obj\Debug\BlockHead.g.resources
+C:\bkbDev\BlockHead\BlockHead\obj\Debug\BlockHead.Properties.Resources.resources
+C:\bkbDev\BlockHead\BlockHead\obj\Debug\BlockHead.csproj.GenerateResource.Cache
+C:\bkbDev\BlockHead\BlockHead\obj\Debug\BlockHead.exe
+C:\bkbDev\BlockHead\BlockHead\obj\Debug\BlockHead.pdb
+C:\bkbDev\BlockHead\BlockHead\bin\Debug\libpxccpp2c.dll
+C:\bkbDev\BlockHead\BlockHead\bin\Debug\libpxcclr.cs.dll
+C:\bkbDev\BlockHead\BlockHead\obj\Debug\BlockHead_Content.g.cs
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Debug\BlockHead.exe.config
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Debug\libpxccpp2c.dll
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Debug\BlockHead.exe
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Debug\BlockHead.pdb
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Debug\libpxcclr.cs.dll
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Debug\BlockHead.csprojResolveAssemblyReference.cache
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Debug\MainWindow.baml
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Debug\MainWindow.g.cs
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Debug\App.g.cs
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Debug\BlockHead_Content.g.cs
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Debug\BlockHead_MarkupCompile.cache
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Debug\BlockHead.g.resources
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Debug\BlockHead.Properties.Resources.resources
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Debug\BlockHead.csproj.GenerateResource.Cache
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Debug\BlockHead.exe
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Debug\BlockHead.pdb

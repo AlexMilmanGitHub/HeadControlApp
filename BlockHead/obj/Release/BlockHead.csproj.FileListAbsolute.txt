@@ -1,0 +1,109 @@
+C:\bkbDev\BlockHead\BlockHead\bin\Release\BlockHead.exe.config
+C:\bkbDev\BlockHead\BlockHead\bin\Release\libpxccpp2c.dll
+C:\bkbDev\BlockHead\BlockHead\bin\Release\BlockHead.exe
+C:\bkbDev\BlockHead\BlockHead\bin\Release\BlockHead.pdb
+C:\bkbDev\BlockHead\BlockHead\bin\Release\libpxcclr.cs.dll
+C:\bkbDev\BlockHead\BlockHead\obj\Release\MainWindow.baml
+C:\bkbDev\BlockHead\BlockHead\obj\Release\MainWindow.g.cs
+C:\bkbDev\BlockHead\BlockHead\obj\Release\App.g.cs
+C:\bkbDev\BlockHead\BlockHead\obj\Release\BlockHead_Content.g.cs
+C:\bkbDev\BlockHead\BlockHead\obj\Release\BlockHead_MarkupCompile.cache
+C:\bkbDev\BlockHead\BlockHead\obj\Release\BlockHead.g.resources
+C:\bkbDev\BlockHead\BlockHead\obj\Release\BlockHead.Properties.Resources.resources
+C:\bkbDev\BlockHead\BlockHead\obj\Release\BlockHead.csproj.GenerateResource.Cache
+C:\bkbDev\BlockHead\BlockHead\obj\Release\BlockHead.exe
+C:\bkbDev\BlockHead\BlockHead\obj\Release\BlockHead.pdb
+C:\bkbDev\BlockHead\BlockHead\obj\Release\BlockHead.csprojResolveAssemblyReference.cache
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\bin\Release\BlockHead.exe.config
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\obj\Release\BlockHead.exe
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\obj\Release\BlockHead.pdb
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\bin\Release\libpxccpp2c.dll
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\bin\Release\BlockHead.exe
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\bin\Release\BlockHead.pdb
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\bin\Release\libpxcclr.cs.dll
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\obj\Release\BlockHead.csprojResolveAssemblyReference.cache
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\obj\Release\MainWindow.baml
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\obj\Release\MainWindow.g.cs
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\obj\Release\App.g.cs
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\obj\Release\BlockHead_Content.g.cs
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\obj\Release\BlockHead_MarkupCompile.cache
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\obj\Release\BlockHead.g.resources
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\obj\Release\BlockHead.Properties.Resources.resources
+C:\RSSDK Sample Apps for Publication 2014\BlockHead\BlockHead\obj\Release\BlockHead.csproj.GenerateResource.Cache
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Release\BlockHead.exe.config
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Release\libpxccpp2c.dll
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Release\BlockHead.exe
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Release\BlockHead.pdb
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Release\libpxcclr.cs.dll
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead.csprojResolveAssemblyReference.cache
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\MainWindow.baml
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\MainWindow.g.cs
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\App.g.cs
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead_Content.g.cs
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead_MarkupCompile.cache
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead.g.resources
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead.Properties.Resources.resources
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead.csproj.GenerateResource.Cache
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead.exe
+C:\BryanBrown\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead.pdb
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Release\BlockHead.exe.config
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Release\libpxccpp2c.dll
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Release\BlockHead.exe
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Release\BlockHead.pdb
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\bin\Release\libpxcclr.cs.dll
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead.csprojResolveAssemblyReference.cache
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\MainWindow.baml
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\MainWindow.g.cs
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\App.g.cs
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead_Content.g.cs
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead_MarkupCompile.cache
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead.g.resources
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead.Properties.Resources.resources
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead.csproj.GenerateResource.Cache
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead.exe
+C:\bkbDev\BlockHead and Sketch Code Samples\Version 2 Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead.pdb
+C:\bkbDev\BlockHead and Sketch Code Samples\Version Projects\BlockHead\BlockHead\BlockHead\bin\Release\BlockHead.exe.config
+C:\bkbDev\BlockHead and Sketch Code Samples\Version Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead.exe
+C:\bkbDev\BlockHead and Sketch Code Samples\Version Projects\BlockHead\BlockHead\BlockHead\obj\Release\BlockHead.pdb
+C:\Users\alexm_000\Desktop\BlockHead\BlockHead\bin\Release\BlockHead.exe.config
+C:\Users\alexm_000\Desktop\BlockHead\BlockHead\bin\Release\BlockHead.exe
+C:\Users\alexm_000\Desktop\BlockHead\BlockHead\bin\Release\BlockHead.pdb
+C:\Users\alexm_000\Desktop\BlockHead\BlockHead\bin\Release\libpxcclr.cs.dll
+C:\Users\alexm_000\Desktop\BlockHead\BlockHead\obj\Release\BlockHead.csprojResolveAssemblyReference.cache
+C:\Users\alexm_000\Desktop\BlockHead\BlockHead\obj\Release\MainWindow.baml
+C:\Users\alexm_000\Desktop\BlockHead\BlockHead\obj\Release\MainWindow.g.cs
+C:\Users\alexm_000\Desktop\BlockHead\BlockHead\obj\Release\App.g.cs
+C:\Users\alexm_000\Desktop\BlockHead\BlockHead\obj\Release\BlockHead_MarkupCompile.cache
+C:\Users\alexm_000\Desktop\BlockHead\BlockHead\obj\Release\BlockHead.g.resources
+C:\Users\alexm_000\Desktop\BlockHead\BlockHead\obj\Release\BlockHead.Properties.Resources.resources
+C:\Users\alexm_000\Desktop\BlockHead\BlockHead\obj\Release\BlockHead.csproj.GenerateResource.Cache
+C:\Users\alexm_000\Desktop\BlockHead\BlockHead\obj\Release\BlockHead.exe
+C:\Users\alexm_000\Desktop\BlockHead\BlockHead\obj\Release\BlockHead.pdb
+C:\Users\alexm_000\Desktop\Sadna\BlockHead\bin\Release\BlockHead.exe.config
+C:\Users\alexm_000\Desktop\Sadna\BlockHead\obj\Release\BlockHead.exe
+C:\Users\alexm_000\Desktop\Sadna\BlockHead\obj\Release\BlockHead.pdb
+C:\Users\alexm_000\Desktop\Sadna\BlockHead\bin\Release\BlockHead.exe
+C:\Users\alexm_000\Desktop\Sadna\BlockHead\bin\Release\BlockHead.pdb
+C:\Users\alexm_000\Desktop\Sadna\BlockHead\bin\Release\libpxcclr.cs.dll
+C:\Users\alexm_000\Desktop\Sadna\BlockHead\obj\Release\BlockHead.csprojResolveAssemblyReference.cache
+C:\Users\alexm_000\Desktop\Sadna\BlockHead\obj\Release\MainWindow.baml
+C:\Users\alexm_000\Desktop\Sadna\BlockHead\obj\Release\MainWindow.g.cs
+C:\Users\alexm_000\Desktop\Sadna\BlockHead\obj\Release\App.g.cs
+C:\Users\alexm_000\Desktop\Sadna\BlockHead\obj\Release\BlockHead_MarkupCompile.cache
+C:\Users\alexm_000\Desktop\Sadna\BlockHead\obj\Release\BlockHead.g.resources
+C:\Users\alexm_000\Desktop\Sadna\BlockHead\obj\Release\BlockHead.Properties.Resources.resources
+C:\Users\alexm_000\Desktop\Sadna\BlockHead\obj\Release\BlockHead.csproj.GenerateResource.Cache
+C:\Users\alexm_000\Dropbox\Sadna Intel\BlockHead\bin\Release\BlockHead.exe.config
+C:\Users\alexm_000\Dropbox\Sadna Intel\BlockHead\obj\Release\BlockHead.exe
+C:\Users\alexm_000\Dropbox\Sadna Intel\BlockHead\obj\Release\BlockHead.pdb
+C:\Users\alexm_000\Dropbox\Sadna Intel\BlockHead\bin\Release\BlockHead.exe
+C:\Users\alexm_000\Dropbox\Sadna Intel\BlockHead\bin\Release\BlockHead.pdb
+C:\Users\alexm_000\Dropbox\Sadna Intel\BlockHead\bin\Release\libpxcclr.cs.dll
+C:\Users\alexm_000\Dropbox\Sadna Intel\BlockHead\obj\Release\BlockHead.csprojResolveAssemblyReference.cache
+C:\Users\alexm_000\Dropbox\Sadna Intel\BlockHead\obj\Release\MainWindow.baml
+C:\Users\alexm_000\Dropbox\Sadna Intel\BlockHead\obj\Release\MainWindow.g.cs
+C:\Users\alexm_000\Dropbox\Sadna Intel\BlockHead\obj\Release\App.g.cs
+C:\Users\alexm_000\Dropbox\Sadna Intel\BlockHead\obj\Release\BlockHead_MarkupCompile.cache
+C:\Users\alexm_000\Dropbox\Sadna Intel\BlockHead\obj\Release\BlockHead.g.resources
+C:\Users\alexm_000\Dropbox\Sadna Intel\BlockHead\obj\Release\BlockHead.Properties.Resources.resources
+C:\Users\alexm_000\Dropbox\Sadna Intel\BlockHead\obj\Release\BlockHead.csproj.GenerateResource.Cache

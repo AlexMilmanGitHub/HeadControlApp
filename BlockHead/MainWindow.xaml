@@ -1,0 +1,7 @@
+﻿<Window x:Class="HeadControlApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="HeadControlApp" WindowStartupLocation="CenterScreen" Closing="Window_Closing" Width="640" Height="480" Loaded="Window_Loaded" Icon="icon.ico" WindowState="Maximized" AllowsTransparency="True" WindowStyle="None"   Background="Transparent">
+
+    <Canvas x:Name="canvas"/>
+</Window>
